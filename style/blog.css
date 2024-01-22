@@ -151,6 +151,18 @@ section{
     .home-text{
         order: 2;
     }
+    .about {
+        display: flex;
+        height: auto;
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 11px 4%;
+        
+    }
+    .about img{
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 .about{
     background: linear-gradient(270deg, #817b31 0%, #313224 100%);
